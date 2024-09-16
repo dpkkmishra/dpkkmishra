@@ -1,9 +1,9 @@
 # 💫 About Me:
 I’m a technology enthusiast with a passion for building innovative solutions in the world of Artificial Intelligence and Cloud Computing. I specialize in creating cutting-edge solutions that leverage the latest in AI, serverless, and microservices architectures to drive business success. My focus is on building scalable, secure, and highly automated cloud infrastructure.<br><br>💡 Core Expertise<br>- Generative AI: Building AI models that generate human-like content.<br>- Custom AI Applications: Crafting tailored AI solutions for various industries.<br>- LLM & RAG (Retrieval-Augmented Generation): Enhancing language models with retrieval mechanisms for improved accuracy.<br>- AI Chatbots and Voice Systems: Developing conversational agents and voice interfaces.<br>- Scalable Systems: Designing robust systems that can scale with demand.<br>- Serverless & Microservices: Implementing modern, flexible, and highly maintainable architectures.<br><br>Feel free to explore my repositories and get in touch if you'd like to collaborate on exciting projects. Let’s build something amazing together! 💡
 
-# 💻 Tech Stack:
+# 🛠 Tech Stack and Tools:
 
-|  | Technologies |
+| End | Stack |
 | -------- | ------------ |
 | Frontend | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Shadcn](https://img.shields.io/badge/shadcn-000000?style=flat&logo=shadcn&logoColor=white) ![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=flat&logo=webflow&logoColor=white) |
 | Backend | ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) |
