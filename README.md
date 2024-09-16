@@ -1,10 +1,6 @@
 # 💫 About Me:
 I’m a technology enthusiast with a passion for building innovative solutions in the world of Artificial Intelligence and Cloud Computing. I specialize in creating cutting-edge solutions that leverage the latest in AI, serverless, and microservices architectures to drive business success. My focus is on building scalable, secure, and highly automated cloud infrastructure.<br><br>💡 Core Expertise<br>- Generative AI: Building AI models that generate human-like content.<br>- Custom AI Applications: Crafting tailored AI solutions for various industries.<br>- LLM & RAG (Retrieval-Augmented Generation): Enhancing language models with retrieval mechanisms for improved accuracy.<br>- AI Chatbots and Voice Systems: Developing conversational agents and voice interfaces.<br>- Scalable Systems: Designing robust systems that can scale with demand.<br>- Serverless & Microservices: Implementing modern, flexible, and highly maintainable architectures.<br><br>Feel free to explore my repositories and get in touch if you'd like to collaborate on exciting projects. Let’s build something amazing together! 💡
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mishradpkk) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dpkkmishra) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/4354063/deepak-mishra) 
-
 # 💻 Tech Stack:
 
 |  | Technologies |
@@ -22,6 +18,9 @@ I’m a technology enthusiast with a passion for building innovative solutions i
 ![](https://github-readme-stats.vercel.app/api?username=dpkkmishra&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dpkkmishra&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dpkkmishra&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mishradpkk) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dpkkmishra) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/4354063/deepak-mishra) 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=dpkkmishra&icon=2&color=1)](https://visitcount.itsvg.in)
